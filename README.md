@@ -1,2 +1,2 @@
 # machine-learning-project-
-utilized deep learning and machine learning( keras, skearn) models to predict tree classifications
+built deep learning and machine learning( keras, skearn) models to predict tree classifications; utilzied randomized search to select optimal models for tree-based (xgboost, adaboost, gradient boosting, etc) and non-tree based( LDA, QDA, SVM) algorithmns, also established feature selections based on random forrest; developed baseline and transfer learning models; achieved the test accuracy of 99.49 as svm for tree-based models, and test accuracy of 99.5 for CNN+MLP models. 
